@@ -36,7 +36,7 @@ At this stage, I concluded I would need five distinct visualizations to be prese
 (Option 2, question 3 [airbnb.xlsx](https://docs.google.com/spreadsheets/d/1BJWyZpZrrRUla_EQ6Pnusy0KH31UMGf2/edit?gid=180839496#gid=180839496) 
 
 My main question was 
-*** How does the average rent across New York City's five neighbourhoods vary, and how can this information help both investors and rents make informed choices?***
+***How does the average rent across New York City's five neighbourhoods vary, and how can this information help both investors and rents make informed choices?***
 The visualizations I created served their following purposes.
 
 ### Cumulative host count over time
