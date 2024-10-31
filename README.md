@@ -26,11 +26,11 @@ I also needed to make calculated fields to display average rent and host types.
 
 At this stage, I concluded I would need five distinct visualizations to be present on the dashboard to answer my project questions.
 
-  1. A linear line graph displaying the total count of unique hosts as the months go on in the dataset divided by host type.
-  2. Another stacked bar graph visualizing the average rent by both room types and neighborhood location. Also with the two different host types present, showing the difference between the two.
-  3. Line graph illustrating the average rent of listed properties by bed amenity count.
-  4. Sunburst graph showcasing property type distrubution between the three primary room types in the respective five New York City neighborhoods divided by the host type.
-  5. Map showcasing the average rent by zipcode in New York City. This map can be filtered on the right side of the dashboard with the beds filter to look for certain average prices in different zip code areas by bed count.
+-  1. A linear line graph displaying the total count of unique hosts as the months go on in the dataset divided by host type.
+-  2. Another stacked bar graph visualizing the average rent by both room types and neighborhood location. Also with the two different host types present, showing the difference between the two.
+-  3. Line graph illustrating the average rent of listed properties by bed amenity count.
+-  4. Sunburst graph showcasing property type distrubution between the three primary room types in the respective five New York City neighborhoods divided by the host type.
+-  5. Map showcasing the average rent by zipcode in New York City. This map can be filtered on the right side of the dashboard with the beds filter to look for certain average prices in different zip code areas by bed count.
 
 ## Results
 (Option 2, question 3 [airbnb.xlsx](https://docs.google.com/spreadsheets/d/1BJWyZpZrrRUla_EQ6Pnusy0KH31UMGf2/edit?gid=180839496#gid=180839496) 
